@@ -14,3 +14,7 @@ Example of what the colorscheme looks like in action:
 <p align="center">
   <img src="screenshots/example.png" alt="Example of Stone Red Konsole theme"/>
 </p>
+
+## Installation
+1. Download the [latest release](https://github.com/SaeedBaig/mystic-konsole/releases/).
+2. Move the `Mystic.colorscheme` file to `~/.local/share/konsole/`
