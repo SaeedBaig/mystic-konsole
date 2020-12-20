@@ -1,2 +1,16 @@
-# mystic-konsole
+# Mystic
 A Konsole colorscheme
+
+<p align="center">
+  <img src="screenshots/preview.png" alt="Preview Mystic Konsole theme"/>
+</p>
+<p align="center">
+  <sup><sub>
+    Aurorae Decoarations: <a href="https://store.kde.org/p/1325238">Layan</a>
+  </sub></sup>
+</p>
+
+Example of what the colorscheme looks like in action:
+<p align="center">
+  <img src="screenshots/example.png" alt="Example of Stone Red Konsole theme"/>
+</p>
