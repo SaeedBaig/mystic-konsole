@@ -1,5 +1,5 @@
 # Mystic
-A Konsole colorscheme
+A Konsole colorscheme, based on the [Fluent konsole theme](https://github.com/freefreeno/Fluent-KDE).
 
 <p align="center">
   <img src="screenshots/preview.png" alt="Preview Mystic Konsole theme"/>
